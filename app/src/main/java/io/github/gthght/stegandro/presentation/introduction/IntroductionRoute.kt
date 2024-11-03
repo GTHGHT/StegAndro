@@ -126,8 +126,6 @@ fun IntroductionRoute(
                     }
                 }
             }
-
-
             Row(
                 modifier = Modifier
                     .background(color = MaterialTheme.colorScheme.surface)
